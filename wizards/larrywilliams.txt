@@ -1,0 +1,19 @@
+From LW How I made a million dollars trading:
+1. Write down a reason for a trade
+2. The only big money I've ever made has been earned by sitting tight on good positions, forget about day trading.
+3. Without a doubt, my best performances have come when I'm in my best physical condition. Fischer vs Spassky.
+4. It is vital that we find time to relax our mental processes.
+5. Pyramiding will, in most cases, end by establishing you in a position similar to plunging.
+6. Use stops to protect capital, in your head, know when you are wrong and you must take a loss and get out
+7. The open interest will decline if, and only if, short sellers are covering their shorts. It will rise if, and only if, short sellers are increasing their shorts. Since we know that smart money is responsible for the most of short selling, we can correctly say that and increase in open interest indicates an attitude of bearishness on the part of of the commercials. A decrease in open interest indicates an attitude of bullishness on the part of commercials.
+8. Don't judge the news. Learn to judge the market's reaction to the news.
+9. Use open interest and contango/backwardation to find "bankable trades", premium/discount spread and change in spread, look for contango spread change, or spread change in backwardation, it doesn't have to change from one to another, spread change within one structure (either contango or backwardation) might be enough.
+10. Use stops in two ways. One is based on price, the other on time.
+11. The important thing is the open interest change be quick and large.
+12. I am certain you can find a good many insights to the market by watching market action and recording your observations, so you can come back at a later date and prove out your hunch.
+13. Buy only on down days, sell only on up days.
+14. You will only be as successful as you really want to be.
+
+From LW Trade with Insiders:
+1. OI represents the crowdedness. The q is not if OI is increasing or decreasing, but who is causing the OI change? Weak hands like public or strong hands like commercials?
+2. Look at commercials as percent of OI. Commercials long position / OI.
