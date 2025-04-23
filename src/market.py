@@ -212,7 +212,7 @@ def get_onof_url():
 def fade_asset_managers():
     if not os.path.exists('/dev/shm/funds'):
         os.mkdir('/dev/shm/funds')
-    fade_asset_manager('HFND', 'https://www.unlimitedetfs.com/wp-content/Fund_files/files/TidalETF_Services.40ZZ.A5_Holdings_HFND.csv')
+    fade_asset_manager('HFND', 'https://unlimitedetfs.com/data/TidalETF_Services.40ZZ_Holdings_HFND.csv')
     fade_asset_manager('RORO', 'https://www.atacfunds.com/download/4421')
     fade_asset_manager('JOJO', 'https://www.atacfunds.com/download/4415')
     fade_asset_manager('EHLS', 'https://evenherd-wix.s3.us-east-2.amazonaws.com/holdings.csv')
