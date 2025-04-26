@@ -1,4 +1,4 @@
-# 🌟 Mamkin Capital
+# Mamkin Capital
 
 We believe there are two things that work in the market: sentiment and positioning.
 
@@ -9,4 +9,6 @@ We believe there are two things that work in the market: sentiment and positioni
 We analyze consensus and positioning based on CFTC COT, options, actively managed ETFs, and CNBC.
 
 Fade, do not trade!
+
+None of this is financial advice!
 
