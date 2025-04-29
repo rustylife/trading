@@ -1,0 +1,6 @@
+
+None of this is financial advice!
+
+Ticker	Date/Time	Quantity	Price		Realized P/L
+MES	2025/04/27	1		5541
+
