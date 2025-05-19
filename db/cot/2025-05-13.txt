@@ -1,0 +1,1301 @@
+
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+CANADIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF CAD 100,000)
+CFTC Code #090741                                                    Open Interest is   262,803
+Positions
+   163,355     59,573          0     36,038    104,102      5,419     21,114     56,458      5,026     10,496      1,131         79     21,276     31,015
+
+Changes from:       May 6, 2025                                      Total Change is:     7,702
+     5,726    -16,450        -72     -3,088      9,920        371      8,283     11,484        606     -1,431        621         79     -2,772      1,143
+
+Percent of Open Interest Represented by Each Category of Trader
+      62.2       22.7        0.0       13.7       39.6        2.1        8.0       21.5        1.9        4.0        0.4        0.0        8.1       11.8
+
+Number of Traders in Each Category                                    Total Traders:       116
+         9          7          0         19         23          8         22         22         14         11          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SWISS FRANC - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF CHF 125,000)
+CFTC Code #092741                                                    Open Interest is    73,088
+Positions
+    42,769     12,810          0      8,566     33,576        711      5,456      9,861         26      1,000      1,614          0     14,560     14,490
+
+Changes from:       May 6, 2025                                      Total Change is:     2,510
+    -2,245        402          0      1,336      1,083        111      1,470        154        -88          0       -150          0      1,926        998
+
+Percent of Open Interest Represented by Each Category of Trader
+      58.5       17.5        0.0       11.7       45.9        1.0        7.5       13.5        0.0        1.4        2.2        0.0       19.9       19.8
+
+Number of Traders in Each Category                                    Total Traders:        45
+         7          6          0          .         12          .          8          6          .          .          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+BRITISH POUND - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF GBP 62,500)
+CFTC Code #096742                                                    Open Interest is   194,861
+Positions
+    12,208     40,898        161     60,216     65,962      4,741     65,307     32,921     18,843        620      3,413          0     32,765     27,922
+
+Changes from:       May 6, 2025                                      Total Change is:    -5,353
+    -1,642     -4,031        -14     -4,500       -672        935       -922     -2,777       -501        219        -23          0      1,072      1,730
+
+Percent of Open Interest Represented by Each Category of Trader
+       6.3       21.0        0.1       30.9       33.9        2.4       33.5       16.9        9.7        0.3        1.8        0.0       16.8       14.3
+
+Number of Traders in Each Category                                    Total Traders:       108
+         5          7          .         19         26          7         26         19         12          .          4          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF JPY 12,500,000)
+CFTC Code #097741                                                    Open Interest is   359,521
+Positions
+    11,512    257,899      2,501    124,096     14,755      5,045     55,015     19,972     24,098     97,238      7,858          1     40,015     27,392
+
+Changes from:       May 6, 2025                                      Total Change is:   -16,025
+    -3,983    -19,779       -158    -10,060      6,274     -1,438        657     -9,736      4,046       -669     -1,944          0     -4,420      6,710
+
+Percent of Open Interest Represented by Each Category of Trader
+       3.2       71.7        0.7       34.5        4.1        1.4       15.3        5.6        6.7       27.0        2.2        0.0       11.1        7.6
+
+Number of Traders in Each Category                                    Total Traders:       133
+         8         10          .         38         12         13         30         18         15         11          5          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+EURO FX - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF EUR 125,000)
+CFTC Code #099741                                                    Open Interest is   750,906
+Positions
+    34,250    423,571      7,384    432,043    120,966     25,767     86,340     66,187     33,460     31,463     22,880      5,670     94,529     45,021
+
+Changes from:       May 6, 2025                                      Total Change is:    13,893
+     1,093      8,386        197      4,726        579        724     13,255     -1,153     -1,527     -2,242      2,908        178     -2,511      3,601
+
+Percent of Open Interest Represented by Each Category of Trader
+       4.6       56.4        1.0       57.5       16.1        3.4       11.5        8.8        4.5        4.2        3.0        0.8       12.6        6.0
+
+Number of Traders in Each Category                                    Total Traders:       299
+        12         17          7        116         28         36         49         40         30         23         14          5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+EURO FX/BRITISH POUND XRATE - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF EUR 125,000)
+CFTC Code #299741                                                    Open Interest is    33,495
+Positions
+     1,124     20,227          0     17,736      1,180      1,263      1,052      8,106          0        426          0          0     11,894      2,719
+
+Changes from:       May 6, 2025                                      Total Change is:    -2,342
+       651       -377          0     -2,174        651          0       -232     -2,867          0          0          0          0       -587        251
+
+Percent of Open Interest Represented by Each Category of Trader
+       3.4       60.4        0.0       53.0        3.5        3.8        3.1       24.2        0.0        1.3        0.0        0.0       35.5        8.1
+
+Number of Traders in Each Category                                    Total Traders:        31
+         .          5          0         15          .          5          .          6          0          .          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+AUSTRALIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF AUD 100,000)
+CFTC Code #232741                                                    Open Interest is   180,460
+Positions
+    76,445     44,403        260     38,862     66,357     14,458     23,738     30,110      1,667      3,762        400          0     21,268     22,805
+
+Changes from:       May 6, 2025                                      Total Change is:    -2,597
+     2,687     -4,435         49     -6,433      9,117         35      2,988     -6,491        560       -855          0          0     -1,628     -1,432
+
+Percent of Open Interest Represented by Each Category of Trader
+      42.4       24.6        0.1       21.5       36.8        8.0       13.2       16.7        0.9        2.1        0.2        0.0       11.8       12.6
+
+Number of Traders in Each Category                                    Total Traders:        90
+         9          6          .         12         15          9         19         23         12          5          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MEXICAN PESO - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF MXN 500,000)
+CFTC Code #095741                                                    Open Interest is   134,834
+Positions
+     2,607     25,275        963     64,756     37,647      5,105     47,009     48,820      2,216      4,655     11,120        439      7,084      3,249
+
+Changes from:       May 6, 2025                                      Total Change is:     7,351
+    -4,086        663        660      7,413      1,385     -1,115      1,156      6,410        100        835       -437        176      2,212       -491
+
+Percent of Open Interest Represented by Each Category of Trader
+       1.9       18.7        0.7       48.0       27.9        3.8       34.9       36.2        1.6        3.5        8.2        0.3        5.3        2.4
+
+Number of Traders in Each Category                                    Total Traders:       157
+         5          9          .         26         12          6         50         29         12         13         12          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+BRAZILIAN REAL - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF BRL 100,000)
+CFTC Code #102741                                                    Open Interest is    97,197
+Positions
+     6,532     45,908         28     64,300      1,095        179     18,813      9,913        312      2,297     38,579          7      4,729      1,176
+
+Changes from:       May 6, 2025                                      Total Change is:     7,947
+     4,412     -1,716         -3     -4,254       -118          0      6,842    -13,347        312        -91     22,677        -48        777        190
+
+Percent of Open Interest Represented by Each Category of Trader
+       6.7       47.2        0.0       66.2        1.1        0.2       19.4       10.2        0.3        2.4       39.7        0.0        4.9        1.2
+
+Number of Traders in Each Category                                    Total Traders:        86
+         4          5          .         17          4          .         27          8          .         10         11          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NZ DOLLAR - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF NZD 100,000)
+CFTC Code #112741                                                    Open Interest is    60,757
+Positions
+    34,682     11,184          0     10,720     30,877         34      9,774     13,306        686        280        585        278      4,303      3,807
+
+Changes from:       May 6, 2025                                      Total Change is:       248
+       891       -709          0     -1,662      1,489          0      1,778       -138        281       -810       -254          0       -230       -421
+
+Percent of Open Interest Represented by Each Category of Trader
+      57.1       18.4        0.0       17.6       50.8        0.1       16.1       21.9        1.1        0.5        1.0        0.5        7.1        6.3
+
+Number of Traders in Each Category                                    Total Traders:        76
+         .          7          0         10         14          .         13         23          7          .          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SO AFRICAN RAND - CHICAGO MERCANTILE EXCHANGE   (CONTRACTS OF ZAR 500,000)
+CFTC Code #122741                                                    Open Interest is    26,605
+Positions
+     3,140     12,907          0     15,812      3,411          0      5,997      6,383        395          0      2,338          0      1,261      1,171
+
+Changes from:       May 6, 2025                                      Total Change is:     3,807
+    -2,442      1,051          0      8,360      1,437          0     -1,911      1,514          0          0         39          0       -200       -234
+
+Percent of Open Interest Represented by Each Category of Trader
+      11.8       48.5        0.0       59.4       12.8        0.0       22.5       24.0        1.5        0.0        8.8        0.0        4.7        4.4
+
+Number of Traders in Each Category                                    Total Traders:        46
+         4          .          0          6          .          0         11         13          .          0          6          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DJIA Consolidated - CHICAGO BOARD OF TRADE   ($5 X DJIA INDEX)
+CFTC Code #12460+                                                    Open Interest is    77,515
+Positions
+    36,052     33,281      1,030     14,751      8,867        348      9,162     13,530      6,570          0      1,473          0      9,602     12,416
+
+Changes from:       May 6, 2025                                      Total Change is:     1,340
+     2,153     -1,552         55     -2,054       -777         -2        669      2,066       -134          0        507          0        653      1,177
+
+Percent of Open Interest Represented by Each Category of Trader
+      46.5       42.9        1.3       19.0       11.4        0.4       11.8       17.5        8.5        0.0        1.9        0.0       12.4       16.0
+
+Number of Traders in Each Category                                    Total Traders:        63
+         7         10          .         12          7          .          7         18          9          0          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DJIA x $5 - CHICAGO BOARD OF TRADE   ($5 X DJIA INDEX)
+CFTC Code #124603                                                    Open Interest is    77,515
+Positions
+    36,052     33,281      1,030     14,751      8,867        348      9,162     13,530      6,570          0      1,473          0      9,602     12,416
+
+Changes from:       May 6, 2025                                      Total Change is:     1,340
+     2,153     -1,552         55     -2,054       -777         -2        669      2,066       -134          0        507          0        653      1,177
+
+Percent of Open Interest Represented by Each Category of Trader
+      46.5       42.9        1.3       19.0       11.4        0.4       11.8       17.5        8.5        0.0        1.9        0.0       12.4       16.0
+
+Number of Traders in Each Category                                    Total Traders:        63
+         7         10          .         12          7          .          7         18          9          0          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DOW JONES U.S. REAL ESTATE IDX - CHICAGO BOARD OF TRADE   ($100 X DJ US REAL ESTATE INDEX)
+CFTC Code #124606                                                    Open Interest is    53,854
+Positions
+    17,205     36,055          0     27,860     10,067      3,026      2,431      3,010          0          0        340          0      3,332      1,356
+
+Changes from:       May 6, 2025                                      Total Change is:    -3,575
+     1,910     -3,203         -1     -3,862        251       -218       -888       -386          0          0       -451          0       -516        433
+
+Percent of Open Interest Represented by Each Category of Trader
+      31.9       66.9        0.0       51.7       18.7        5.6        4.5        5.6        0.0        0.0        0.6        0.0        6.2        2.5
+
+Number of Traders in Each Category                                    Total Traders:        43
+         7          5          0         23          4          4          .          .          0          0          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+S&P 500 Consolidated - CHICAGO MERCANTILE EXCHANGE   (S&P 500 INDEX X $50.00)
+CFTC Code #13874+                                                    Open Interest is 2,142,617
+Positions
+   191,123    864,880     63,157  1,115,694    256,693    121,345    157,321    443,939     76,975    154,895    110,666      6,136    255,972    198,827
+
+Changes from:       May 6, 2025                                      Total Change is:    -7,179
+     1,959    -13,687    -13,043     13,560    -26,712     -9,323      2,590     29,441     -1,196    -13,714     39,507       -803     12,791    -11,364
+
+Percent of Open Interest Represented by Each Category of Trader
+       8.9       40.4        2.9       52.1       12.0        5.7        7.3       20.7        3.6        7.2        5.2        0.3       11.9        9.3
+
+Number of Traders in Each Category                                    Total Traders:       458
+        22         42         25        160         51         84         61         87         65         19         14          7
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P CONSU STAPLES INDEX - CHICAGO MERCANTILE EXCHANGE   ($100 x S&P Select Sector Consumer Staples Index price)
+CFTC Code #138748                                                    Open Interest is    26,412
+Positions
+    12,945     13,450          0      9,679      7,619          0      1,503        622          0        222          0        142      1,921      4,579
+
+Changes from:       May 6, 2025                                      Total Change is:     5,504
+     7,452        476          0      1,134        983        -28        122        162          0       -142          0        142     -3,176      3,769
+
+Percent of Open Interest Represented by Each Category of Trader
+      49.0       50.9        0.0       36.6       28.8        0.0        5.7        2.4        0.0        0.8        0.0        0.5        7.3       17.3
+
+Number of Traders in Each Category                                    Total Traders:        29
+         6          4          0          6          8          0          .          .          0          .          0          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P ENERGY INDEX - CHICAGO MERCANTILE EXCHANGE   ($100 x S&P Select Sector Energy Index price)
+CFTC Code #138749                                                    Open Interest is    25,812
+Positions
+    18,309      6,354          0      4,616     16,089          0        667      1,355          0          0          0          0      2,220      2,014
+
+Changes from:       May 6, 2025                                      Total Change is:    -1,326
+       412       -122          0       -829      1,714       -584         -9         60          0          0          0          0       -316     -2,394
+
+Percent of Open Interest Represented by Each Category of Trader
+      70.9       24.6        0.0       17.9       62.3        0.0        2.6        5.2        0.0        0.0        0.0        0.0        8.6        7.8
+
+Number of Traders in Each Category                                    Total Traders:        27
+         8          4          0          4          6          0          .          4          0          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P 500 - CHICAGO MERCANTILE EXCHANGE   ($50 X S&P 500 INDEX)
+CFTC Code #13874A                                                    Open Interest is 2,125,890
+Positions
+   191,074    864,263     61,817  1,112,757    256,679    121,085    159,581    448,236     68,442    154,720    109,479      6,136    250,278    189,753
+
+Changes from:       May 6, 2025                                      Total Change is:    -7,762
+     2,566    -17,647    -11,031     13,460    -26,456     -9,305      2,114     33,330     -4,016    -14,134     39,081       -383     12,967    -11,335
+
+Percent of Open Interest Represented by Each Category of Trader
+       9.0       40.7        2.9       52.3       12.1        5.7        7.5       21.1        3.2        7.3        5.1        0.3       11.8        8.9
+
+Number of Traders in Each Category                                    Total Traders:       448
+        21         43         23        157         52         84         57         85         61         18         13          7
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P FINANCIAL INDEX - CHICAGO MERCANTILE EXCHANGE   ($250 x S&P Select Sector Financial Index price)
+CFTC Code #13874C                                                    Open Interest is    67,900
+Positions
+    51,706     63,002          0     13,815        222          0          0      3,516          0          0          0          0      2,379      1,160
+
+Changes from:       May 6, 2025                                      Total Change is:       640
+      -228        -60          0        759       -165          0          0         27          0          0          0          0        109        838
+
+Percent of Open Interest Represented by Each Category of Trader
+      76.2       92.8        0.0       20.3        0.3        0.0        0.0        5.2        0.0        0.0        0.0        0.0        3.5        1.7
+
+Number of Traders in Each Category                                    Total Traders:        27
+         9          7          0          7          .          0          0          .          0          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P TECHNOLOGY INDEX - CHICAGO MERCANTILE EXCHANGE   ($100 x S&P Select Sector Technology Index price)
+CFTC Code #13874I                                                    Open Interest is    16,203
+Positions
+     3,667     14,018          0     10,086        423          0          0        784          0          0          0          0      2,450        978
+
+Changes from:       May 6, 2025                                      Total Change is:      -860
+      -290        873          0       -386          0          0          0         26          0          0          0          0       -184     -1,759
+
+Percent of Open Interest Represented by Each Category of Trader
+      22.6       86.5        0.0       62.2        2.6        0.0        0.0        4.8        0.0        0.0        0.0        0.0       15.1        6.0
+
+Number of Traders in Each Category                                    Total Traders:        21
+         4          5          0          9          .          0          0          .          0          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P UTILITIES INDEX - CHICAGO MERCANTILE EXCHANGE   ($100 x S&P Select Sector Utilities Index price)
+CFTC Code #13874J                                                    Open Interest is    32,237
+Positions
+     5,001     27,596          0     19,893      1,707      1,052      2,943        736          0          0          0          0      3,348      1,146
+
+Changes from:       May 6, 2025                                      Total Change is:    -1,006
+     2,223       -437          0     -4,387      1,525        902       -185        -84          0          0          0          0        441     -2,912
+
+Percent of Open Interest Represented by Each Category of Trader
+      15.5       85.6        0.0       61.7        5.3        3.3        9.1        2.3        0.0        0.0        0.0        0.0       10.4        3.6
+
+Number of Traders in Each Category                                    Total Traders:        33
+         .          7          0         15          .          .          5          .          0          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO E-MINI S&P 500 INDEX - CHICAGO MERCANTILE EXCHANGE   ($5 X S&P 500 INDEX)
+CFTC Code #13874U                                                    Open Interest is   167,274
+Positions
+    13,893     19,564          0     30,665      1,441      1,301     59,982     39,617      2,742      1,750     11,867          0     56,941     90,742
+
+Changes from:       May 6, 2025                                      Total Change is:     5,830
+   -26,110     19,564        -75        776     -2,783         42     32,223    -11,419        731          0         64          0     -1,757       -294
+
+Percent of Open Interest Represented by Each Category of Trader
+       8.3       11.7        0.0       18.3        0.9        0.8       35.9       23.7        1.6        1.0        7.1        0.0       34.0       54.2
+
+Number of Traders in Each Category                                    Total Traders:        38
+         .          .          0         13          .          .         12          4          6          .          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ADJUSTED INT RATE S&P 500 TOTL - CHICAGO MERCANTILE EXCHANGE   (S&P 500 TOTAL RETURN INDEX x $25)
+CFTC Code #13874W                                                    Open Interest is   728,150
+Positions
+   243,912    205,185    174,308      1,634     79,120      2,685     94,093     67,860    181,536     14,416          0     10,384      5,182      7,072
+
+Changes from:       May 6, 2025                                      Total Change is:    -4,974
+     3,495        550     -7,122          0          0          0     -2,445      3,400        598        250          0          0        250     -2,400
+
+Percent of Open Interest Represented by Each Category of Trader
+      33.5       28.2       23.9        0.2       10.9        0.4       12.9        9.3       24.9        2.0        0.0        1.4        0.7        1.0
+
+Number of Traders in Each Category                                    Total Traders:        61
+        14         13         22          .          4          .         13          8         24          .          0          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+E-MINI S&P 400 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE   (S&P 400 INDEX X $100)
+CFTC Code #33874A                                                    Open Interest is    39,538
+Positions
+    12,159      5,155         90     15,180     22,750      2,141      2,543      3,359         41          0          0          0      7,384      6,002
+
+Changes from:       May 6, 2025                                      Total Change is:    -1,505
+      -444        335          0        188     -1,533       -351        139         94       -143          0       -499          0       -894        592
+
+Percent of Open Interest Represented by Each Category of Trader
+      30.8       13.0        0.2       38.4       57.5        5.4        6.4        8.5        0.1        0.0        0.0        0.0       18.7       15.2
+
+Number of Traders in Each Category                                    Total Traders:        64
+         9          5          .         23         15         12          6          6          .          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NASDAQ-100 Consolidated - CHICAGO MERCANTILE EXCHANGE   (NASDAQ 100 INDEX X $20)
+CFTC Code #20974+                                                    Open Interest is   307,490
+Positions
+    78,594     57,522      4,206     85,032     41,669      5,962     49,535    120,159     21,948     13,031      7,568        493     48,690     47,964
+
+Changes from:       May 6, 2025                                      Total Change is:    27,039
+    17,156        388     -1,202      3,055        908        -45      3,360     21,176      1,573     -1,438        718         13      4,566      3,509
+
+Percent of Open Interest Represented by Each Category of Trader
+      25.6       18.7        1.4       27.7       13.6        1.9       16.1       39.1        7.1        4.2        2.5        0.2       15.8       15.6
+
+Number of Traders in Each Category                                    Total Traders:       298
+        29         21         10         67         32         25         46         53         32         23         25          4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NASDAQ MINI - CHICAGO MERCANTILE EXCHANGE   (NASDAQ 100 STOCK INDEX X $20)
+CFTC Code #209742                                                    Open Interest is   283,667
+Positions
+    73,693     59,349      1,918     84,784     41,464      5,934     63,527    117,514      6,416     13,042      7,325         95     34,258     43,652
+
+Changes from:       May 6, 2025                                      Total Change is:    25,418
+    16,954        595     -1,469      3,194        983        -63      4,832     22,149        172     -1,420        532          6      3,212      2,513
+
+Percent of Open Interest Represented by Each Category of Trader
+      26.0       20.9        0.7       29.9       14.6        2.1       22.4       41.4        2.3        4.6        2.6        0.0       12.1       15.4
+
+Number of Traders in Each Category                                    Total Traders:       262
+        29         17          8         63         31         25         43         44         19         16         19          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO E-MINI NASDAQ-100 INDEX - CHICAGO MERCANTILE EXCHANGE   (NASDAQ 100 STOCK INDEX x $2)
+CFTC Code #209747                                                    Open Interest is   238,228
+Positions
+    71,881      4,605          0      2,668      2,242         88     10,039    176,410      5,357      3,707      6,243        166    144,322     43,117
+
+Changes from:       May 6, 2025                                      Total Change is:    16,212
+     4,738        649        -42     -1,202       -559        -11     -3,072      1,910      2,368        277      2,321       -383     13,539      9,959
+
+Percent of Open Interest Represented by Each Category of Trader
+      30.2        1.9        0.0        1.1        0.9        0.0        4.2       74.1        2.2        1.6        2.6        0.1       60.6       18.1
+
+Number of Traders in Each Category                                    Total Traders:        60
+         4          4          0          6          .          .         12         17          9          8          7          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+RUSSELL E-MINI - CHICAGO MERCANTILE EXCHANGE   (RUSSEL 2000 INDEX X $50)
+CFTC Code #239742                                                    Open Interest is   443,279
+Positions
+   113,449    105,271      3,799    155,816    130,456     31,558     73,762    110,170     23,306     17,531     12,156        974     23,084     25,589
+
+Changes from:       May 6, 2025                                      Total Change is:    -6,404
+     2,223        905       -677      9,041      2,496     -3,203     -1,871     -6,559      3,872    -15,348     -1,287        -16       -425     -1,935
+
+Percent of Open Interest Represented by Each Category of Trader
+      25.6       23.7        0.9       35.2       29.4        7.1       16.6       24.9        5.3        4.0        2.7        0.2        5.2        5.8
+
+Number of Traders in Each Category                                    Total Traders:       335
+        31         20          7         94         60         44         36         70         24          9         13          4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+EMINI RUSSELL 1000 VALUE INDEX - CHICAGO MERCANTILE EXCHANGE   (RUSSELL 1000 VALUE INDEX x $50)
+CFTC Code #239744                                                    Open Interest is    28,212
+Positions
+    14,233     11,370          0     10,693     14,929        262        292          0          0        203        250        803      1,726        598
+
+Changes from:       May 6, 2025                                      Total Change is:      -552
+      -234     -1,314          0       -565       -176         56       -212          0          0       -673        -18        673        403        227
+
+Percent of Open Interest Represented by Each Category of Trader
+      50.5       40.3        0.0       37.9       52.9        0.9        1.0        0.0        0.0        0.7        0.9        2.8        6.1        2.1
+
+Number of Traders in Each Category                                    Total Traders:        23
+         4          4          0          9          .          .          .          0          0          .          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO E-MINI RUSSELL 2000 INDX - CHICAGO MERCANTILE EXCHANGE   (RUSSEL 2000 INDEX X $0.5)
+CFTC Code #239747                                                    Open Interest is    43,485
+Positions
+     1,266     27,296          0      2,536          0          0      5,572      6,102         78        215      3,179          6     33,812      6,824
+
+Changes from:       May 6, 2025                                      Total Change is:     1,274
+      -505       -104          0        263          0          0        -29       -124          5        215        705          6      1,319        786
+
+Percent of Open Interest Represented by Each Category of Trader
+       2.9       62.8        0.0        5.8        0.0        0.0       12.8       14.0        0.2        0.5        7.3        0.0       77.8       15.7
+
+Number of Traders in Each Category                                    Total Traders:        23
+         .          .          0          6          0          0          6          4          .          .          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+RUSSELL 2000 ANNUAL DIVIDEND  - CHICAGO MERCANTILE EXCHANGE   (RUSSEL 2000 INDEX X $100)
+CFTC Code #239750                                                    Open Interest is    22,686
+Positions
+       340     13,444      1,705      2,190          0         20     16,526      6,147      1,370          0          0          0        535          0
+
+Changes from:       May 6, 2025                                      Total Change is:     1,301
+         0      1,087       -162          0          0          0      1,423        336         40          0          0          0          0          0
+
+Percent of Open Interest Represented by Each Category of Trader
+       1.5       59.3        7.5        9.7        0.0        0.1       72.8       27.1        6.0        0.0        0.0        0.0        2.4        0.0
+
+Number of Traders in Each Category                                    Total Traders:        21
+         .          8          7          .          0          .          6          .          .          0          0          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NIKKEI STOCK AVERAGE YEN DENOM - CHICAGO MERCANTILE EXCHANGE   (NIKKEI INDEX X JPY 500)
+CFTC Code #240743                                                    Open Interest is    39,682
+Positions
+    15,667      4,085        654      9,335      1,297      1,124      4,596      3,088      1,345        429        897        483      6,049     26,709
+
+Changes from:       May 6, 2025                                      Total Change is:     3,095
+       121         54         94      1,046        191         28       -232       -722         -6        229        192        397      1,418      2,867
+
+Percent of Open Interest Represented by Each Category of Trader
+      39.5       10.3        1.6       23.5        3.3        2.8       11.6        7.8        3.4        1.1        2.3        1.2       15.2       67.3
+
+Number of Traders in Each Category                                    Total Traders:        49
+        13          6          .         11          .          .          8          5          .          .          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MSCI EAFE  - ICE FUTURES U.S.   (MSCI EAFE INDEX X $50)
+CFTC Code #244041                                                    Open Interest is   459,826
+Positions
+    39,814    289,677        529    327,735     77,873     36,681     34,911     31,356      1,525      7,717     17,130          1     10,913      5,054
+
+Changes from:       May 6, 2025                                      Total Change is:    -5,817
+     1,313       -383       -283    -11,221     -4,853      5,305        -70      1,320        800       -633     -8,045          1     -1,029        321
+
+Percent of Open Interest Represented by Each Category of Trader
+       8.7       63.0        0.1       71.3       16.9        8.0        7.6        6.8        0.3        1.7        3.7        0.0        2.4        1.1
+
+Number of Traders in Each Category                                    Total Traders:       192
+        15         16          4         81         36         36         26         11          7          6          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MSCI EM INDEX - ICE FUTURES U.S.   (MSCI Emerging Markets Index x $50)
+CFTC Code #244042                                                    Open Interest is 1,066,427
+Positions
+    87,236    594,226     14,494    621,611    179,163     97,012    116,295    140,185      6,662     82,629     11,213      2,114     38,374     21,358
+
+Changes from:       May 6, 2025                                      Total Change is:     6,223
+    -1,992      7,423        895     -3,058      7,250     -3,899        -32     -6,419        590     15,027        377         26     -1,334        -20
+
+Percent of Open Interest Represented by Each Category of Trader
+       8.2       55.7        1.4       58.3       16.8        9.1       10.9       13.1        0.6        7.7        1.1        0.2        3.6        2.0
+
+Number of Traders in Each Category                                    Total Traders:       370
+        24         18          8        165         52         69         51         33         22         22          5          5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+S&P 500 ANNUAL DIVIDEND INDEX - CHICAGO MERCANTILE EXCHANGE   (S&P 500 ANNUAL DIVIDEND INDEX X $250)
+CFTC Code #43874A                                                    Open Interest is   286,978
+Positions
+    26,455    205,678     12,527     82,397          0      2,824    123,815     36,073     19,936     12,814      9,162        210      6,000        568
+
+Changes from:       May 6, 2025                                      Total Change is:     1,407
+      -739      4,005        130         54          0          0      1,796       -665     -1,900        519        -80          0      1,547        -83
+
+Percent of Open Interest Represented by Each Category of Trader
+       9.2       71.7        4.4       28.7        0.0        1.0       43.1       12.6        6.9        4.5        3.2        0.1        2.1        0.2
+
+Number of Traders in Each Category                                    Total Traders:        88
+        13         17         18         15          0          .         28          6         12          6          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+S&P 500 QUARTERLY DIVIDEND IND - CHICAGO MERCANTILE EXCHANGE   (S&P 500 QUARTERLY DIVIDEND INDEX X $1000)
+CFTC Code #43874Q                                                    Open Interest is    46,544
+Positions
+     2,568     20,994      2,477      2,404          0          0     38,575     23,012          0        500         41          0         20         20
+
+Changes from:       May 6, 2025                                      Total Change is:       314
+       -40        410       -152          0          0          0        576        126        -70          0          0          0          0          0
+
+Percent of Open Interest Represented by Each Category of Trader
+       5.5       45.1        5.3        5.2        0.0        0.0       82.9       49.4        0.0        1.1        0.1        0.0        0.0        0.0
+
+Number of Traders in Each Category                                    Total Traders:        28
+         .         13          6          .          0          0          4          6          0          .          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+UST BOND - CHICAGO BOARD OF TRADE   (CONTRACTS OF $100,000 FACE VALUE)
+CFTC Code #020601                                                    Open Interest is 1,829,814
+Positions
+    26,381    185,435     11,039  1,145,831    526,506    214,173     47,874    613,903     44,815    105,452     97,900      3,388    230,861    132,655
+
+Changes from:       May 6, 2025                                      Total Change is:    26,370
+     2,682    -12,309      4,195      2,622     11,471        696     -5,272     -2,531     18,795      2,727      5,841         21        -96        191
+
+Percent of Open Interest Represented by Each Category of Trader
+       1.4       10.1        0.6       62.6       28.8       11.7        2.6       33.6        2.4        5.8        5.4        0.2       12.6        7.2
+
+Number of Traders in Each Category                                    Total Traders:       236
+        11         21         11         89         28         62         22         43         27         10         12          6
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ULTRA UST BOND - CHICAGO BOARD OF TRADE   (CONTRACTS OF $100,000 FACE VALUE)
+CFTC Code #020604                                                    Open Interest is 1,901,635
+Positions
+     4,989    122,258      6,546  1,226,390    511,921    303,763     92,570    670,411     32,758     50,712     97,053      2,946    180,961    153,979
+
+Changes from:       May 6, 2025                                      Total Change is:    12,876
+      -248    -10,961      1,313        215      3,721       -279      1,709     13,987      8,945     -2,437     -5,990        511      3,147      1,629
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.3        6.4        0.3       64.5       26.9       16.0        4.9       35.3        1.7        2.7        5.1        0.2        9.5        8.1
+
+Number of Traders in Each Category                                    Total Traders:       190
+         .         16          5         88         24         61         16         33         12          7          5          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+UST 2Y NOTE - CHICAGO BOARD OF TRADE   (CONTRACTS OF $200,000 FACE VALUE)
+CFTC Code #042601                                                    Open Interest is 4,149,980
+Positions
+   212,516    420,337     14,170  2,236,299    363,297    556,546    363,609  2,214,922    255,417    258,603    181,277      5,176    247,644    138,838
+
+Changes from:       May 6, 2025                                      Total Change is:    38,477
+    16,236    -26,259        700     47,230     45,127    -53,947     17,872      7,302     24,849     -7,064      9,532        960     -8,359     30,213
+
+Percent of Open Interest Represented by Each Category of Trader
+       5.1       10.1        0.3       53.9        8.8       13.4        8.8       53.4        6.2        6.2        4.4        0.1        6.0        3.3
+
+Number of Traders in Each Category                                    Total Traders:       448
+        43         30         14        166         32         99         56         66         52         38         17          9
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+UST 10Y NOTE - CHICAGO BOARD OF TRADE   (CONTRACTS OF $100,000 FACE VALUE)
+CFTC Code #043602                                                    Open Interest is 5,157,374
+Positions
+   182,174    632,281     98,491  2,902,589    739,610    565,896    193,076  2,132,082    173,755    523,745    382,909     62,844    454,804    369,506
+
+Changes from:       May 6, 2025                                      Total Change is:   161,242
+   -11,529     56,929    -16,085     16,139     68,151     -8,482      1,263    -96,093     49,229     76,939     -1,857     57,700     -3,932     51,750
+
+Percent of Open Interest Represented by Each Category of Trader
+       3.5       12.3        1.9       56.3       14.3       11.0        3.7       41.3        3.4       10.2        7.4        1.2        8.8        7.2
+
+Number of Traders in Each Category                                    Total Traders:       408
+        27         30         16        136         48        105         43         82         53         26         16          8
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ULTRA UST 10Y - CHICAGO BOARD OF TRADE   (CONTRACTS OF $100,000 FACE VALUE)
+CFTC Code #043607                                                    Open Interest is 2,326,068
+Positions
+    39,603    268,122      5,110  1,222,345    636,943    376,158    196,172    601,306     36,656    188,837    122,679     28,673    232,514    250,421
+
+Changes from:       May 6, 2025                                      Total Change is:    33,838
+    -2,583    -11,673      2,243      3,881     -1,671      9,092     -8,819     31,267     15,224       -397     -4,056       -924     16,121     -5,664
+
+Percent of Open Interest Represented by Each Category of Trader
+       1.7       11.5        0.2       52.5       27.4       16.2        8.4       25.9        1.6        8.1        5.3        1.2       10.0       10.8
+
+Number of Traders in Each Category                                    Total Traders:       209
+         6         19          6         58         52         66         16         36         18          8         14          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO 10 YEAR YIELD - CHICAGO BOARD OF TRADE   (1000 x Index Points)
+CFTC Code #04360Y                                                    Open Interest is     4,564
+Positions
+         0          0          0          0          0          0      4,039      1,183          2        140      1,087          0        383      2,292
+
+Changes from:       May 6, 2025                                      Total Change is:     1,508
+         0          0          0          0          0          0      1,391        335          2          0        284          0        115        887
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0       88.5       25.9        0.0        3.1       23.8        0.0        8.4       50.2
+
+Number of Traders in Each Category                                    Total Traders:        28
+         0          0          0          0          0          0          .          .          .          .         19          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+UST 5Y NOTE - CHICAGO BOARD OF TRADE   (CONTRACTS OF $100,000 FACE VALUE)
+CFTC Code #044601                                                    Open Interest is 7,152,021
+Positions
+   135,915    873,572     56,742  4,169,407    774,923    629,389    387,479  3,876,357    466,603    835,811    142,226     10,611    460,064    321,598
+
+Changes from:       May 6, 2025                                      Total Change is:    49,730
+     6,777     -5,980      7,792    -93,767    121,993    -21,429    -60,114   -240,998     96,296    112,427       -972      2,783     -1,035     90,245
+
+Percent of Open Interest Represented by Each Category of Trader
+       1.9       12.2        0.8       58.3       10.8        8.8        5.4       54.2        6.5       11.7        2.0        0.1        6.4        4.5
+
+Number of Traders in Each Category                                    Total Traders:       428
+        26         35         16        161         31         96         51         77         54         33         14          9
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+FED FUNDS - CHICAGO BOARD OF TRADE   (CONTRACTS OF $5,000,000)
+CFTC Code #045601                                                    Open Interest is 2,026,950
+Positions
+   590,910    390,859    502,737     35,693     40,520     38,214    402,015    552,328    372,533     15,509     65,022      8,739     60,600     55,998
+
+Changes from:       May 6, 2025                                      Total Change is:   150,957
+    25,451     58,839     50,089      5,941      5,375     10,329     47,821    -56,004      1,516     -5,171     57,628       -220     15,201     23,405
+
+Percent of Open Interest Represented by Each Category of Trader
+      29.2       19.3       24.8        1.8        2.0        1.9       19.8       27.2       18.4        0.8        3.2        0.4        3.0        2.8
+
+Number of Traders in Each Category                                    Total Traders:       162
+        34         30         50          8          6          4         38         34         49          6          6          4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+EURO SHORT TERM RATE - CHICAGO MERCANTILE EXCHANGE   (2,500 X CONTRACT GRADE IMM INDEX)
+CFTC Code #047745                                                    Open Interest is    41,193
+Positions
+    11,928     20,541      2,900      1,052          0          4      8,081        283     17,178          0        147         25         25        115
+
+Changes from:       May 6, 2025                                      Total Change is:     1,669
+       367      1,522        -83          0          0          0        551       -669        810          0          0          0         24         89
+
+Percent of Open Interest Represented by Each Category of Trader
+      29.0       49.9        7.0        2.6        0.0        0.0       19.6        0.7       41.7        0.0        0.4        0.1        0.1        0.3
+
+Number of Traders in Each Category                                    Total Traders:        41
+         8         16         13          .          0          .          9          .         11          0          .          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SOFR-3M - CHICAGO MERCANTILE EXCHANGE   ($2,500 x Contract IMM Index)
+CFTC Code #134741                                                    Open Interest is10,901,005
+Positions
+ 2,575,790  1,814,740  2,029,619  1,151,957    341,170    873,208    995,442  2,136,606  3,004,282     88,295    514,666     87,022     95,390     99,692
+
+Changes from:       May 6, 2025                                      Total Change is:   167,980
+   152,405   -152,611     71,557    -17,624     47,696    -59,612    -34,866     57,684      6,442     -7,343    132,668     -2,608     59,629     66,764
+
+Percent of Open Interest Represented by Each Category of Trader
+      23.6       16.6       18.6       10.6        3.1        8.0        9.1       19.6       27.6        0.8        4.7        0.8        0.9        0.9
+
+Number of Traders in Each Category                                    Total Traders:       880
+        92         93        145         59         63         66        153        141        189        134        102         75
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+SOFR-1M - CHICAGO MERCANTILE EXCHANGE   ($4,167 x Contract IMM Index)
+CFTC Code #134742                                                    Open Interest is 1,214,761
+Positions
+   317,428    370,764    264,657     17,999     23,454     15,596    265,546    212,278    305,539        245     10,723      4,556     23,195      7,194
+
+Changes from:       May 6, 2025                                      Total Change is:    75,380
+    29,802     -3,312     65,667        182     -3,770      2,327    -46,092      1,647      2,198     -1,832      5,908        216     22,912      4,499
+
+Percent of Open Interest Represented by Each Category of Trader
+      26.1       30.5       21.8        1.5        1.9        1.3       21.9       17.5       25.2        0.0        0.9        0.4        1.9        0.6
+
+Number of Traders in Each Category                                    Total Traders:       201
+        36         54         55          .          9          6         33         54         48          .          9          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+2 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE   (100,000 USD notional principal)
+CFTC Code #342603                                                    Open Interest is    42,486
+Positions
+       850        780          0        157         60          0     11,833     15,176     12,962     16,653     13,425         30          1         53
+
+Changes from:       May 6, 2025                                      Total Change is:      -216
+         0        580          0          0          0          0       -626       -444        400         28       -752          0        -18          0
+
+Percent of Open Interest Represented by Each Category of Trader
+       2.0        1.8        0.0        0.4        0.1        0.0       27.9       35.7       30.5       39.2       31.6        0.1        0.0        0.1
+
+Number of Traders in Each Category                                    Total Traders:        29
+         .          .          0          .          .          0          .          7          .          4         10          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+10 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE   (100,000 USD notional principal)
+CFTC Code #343603                                                    Open Interest is   117,923
+Positions
+    13,017      4,632     24,376        365          0          0      5,951     68,200     18,055     56,159      2,638          0          0         22
+
+Changes from:       May 6, 2025                                      Total Change is:    -1,680
+       550         70          0          0          0          0       -300     -1,428          0     -1,930       -322          0          0          0
+
+Percent of Open Interest Represented by Each Category of Trader
+      11.0        3.9       20.7        0.3        0.0        0.0        5.0       57.8       15.3       47.6        2.2        0.0        0.0        0.0
+
+Number of Traders in Each Category                                    Total Traders:        39
+         5          .          .          .          0          0          .          4          .         17          6          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+5 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE   (100,000 USD notional principal)
+CFTC Code #344605                                                    Open Interest is    62,816
+Positions
+    12,887     12,473      1,618         65         43          0      3,462     24,293      9,122     35,652     15,176          0         10         91
+
+Changes from:       May 6, 2025                                      Total Change is:    -1,352
+         0        -77          0          0          0          0        -33     -1,357       -250     -1,069        332          0          0          0
+
+Percent of Open Interest Represented by Each Category of Trader
+      20.5       19.9        2.6        0.1        0.1        0.0        5.5       38.7       14.5       56.8       24.2        0.0        0.0        0.1
+
+Number of Traders in Each Category                                    Total Traders:        46
+         5          .          .          .          .          0          .         10          .         13         10          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+BITCOIN - CHICAGO MERCANTILE EXCHANGE   (5 Bitcoins)
+CFTC Code #133741                                                    Open Interest is    29,070
+Positions
+    11,319      4,845        868      8,623        451        153      3,043     17,182        841      2,453      2,239        494      1,276      1,997
+
+Changes from:       May 6, 2025                                      Total Change is:     1,099
+       609        175        235        818         28        -28       -113     -2,250        127       -794      1,606        329        -84        877
+
+Percent of Open Interest Represented by Each Category of Trader
+      38.9       16.7        3.0       29.7        1.6        0.5       10.5       59.1        2.9        8.4        7.7        1.7        4.4        6.9
+
+Number of Traders in Each Category                                    Total Traders:       130
+        12          9          4         12          5          5         30         47         17          7          8          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO BITCOIN - CHICAGO MERCANTILE EXCHANGE   (Bitcoin X $0.10)
+CFTC Code #133742                                                    Open Interest is    26,467
+Positions
+     3,466      8,402          0      2,545        211          0      3,630      8,173      4,600      5,901      2,844        101      6,224      2,136
+
+Changes from:       May 6, 2025                                      Total Change is:     3,933
+     2,122      4,484        -68        755       -240          0     -1,644     -2,619      2,449       -262       -295         -4        585        226
+
+Percent of Open Interest Represented by Each Category of Trader
+      13.1       31.7        0.0        9.6        0.8        0.0       13.7       30.9       17.4       22.3       10.7        0.4       23.5        8.1
+
+Number of Traders in Each Category                                    Total Traders:       194
+         7          6          0          8          .          0         27         22          7         84         37          4
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Nano Bitcoin  - LMX LABS LLC   (1/100 X Bitcoin = $300)
+CFTC Code #133LM1                                                    Open Interest is    47,683
+Positions
+         0          0          0          0          0          0        679     22,305        541     42,240     22,412          0      4,223      2,425
+
+Changes from:       May 6, 2025                                      Total Change is:      -377
+         0          0          0          0          0          0        396      5,054        541     -1,541     -6,362        -50        277        440
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0        1.4       46.8        1.1       88.6       47.0        0.0        8.9        5.1
+
+Number of Traders in Each Category                                    Total Traders:       319
+         0          0          0          0          0          0          .          9          .        192        115          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ETHER CASH SETTLED - CHICAGO MERCANTILE EXCHANGE   (50 Index Points)
+CFTC Code #146021                                                    Open Interest is    19,714
+Positions
+    14,628      5,342         62      2,670      1,288        339        737     10,075        415         65      1,500         44        754        649
+
+Changes from:       May 6, 2025                                      Total Change is:     6,141
+     5,142        592       -101        880       -582        254       -246      4,816        243       -186        822         38        117         59
+
+Percent of Open Interest Represented by Each Category of Trader
+      74.2       27.1        0.3       13.5        6.5        1.7        3.7       51.1        2.1        0.3        7.6        0.2        3.8        3.3
+
+Number of Traders in Each Category                                    Total Traders:        77
+         4          8          .          7          6          4         14         29         10          .          4          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+MICRO ETHER  - CHICAGO MERCANTILE EXCHANGE   (0.1 Index Points)
+CFTC Code #146022                                                    Open Interest is    74,537
+Positions
+     3,150      1,569      1,114      1,319      6,983        587     33,053     45,743     10,151     22,892      7,859         11      2,260        520
+
+Changes from:       May 6, 2025                                      Total Change is:     8,332
+    -3,100      1,469       -256       -238     -1,779         93     11,802       -761      4,388     -4,669      5,038          1        311        139
+
+Percent of Open Interest Represented by Each Category of Trader
+       4.2        2.1        1.5        1.8        9.4        0.8       44.3       61.4       13.6       30.7       10.5        0.0        3.0        0.7
+
+Number of Traders in Each Category                                    Total Traders:       205
+         4          .          .          4          4          .         17         10          6        131         34          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NANO ETHER - LMX LABS LLC   (0.1 Ether or 1/10 X$2,000 = $200)
+CFTC Code #146LM1                                                    Open Interest is    92,745
+Positions
+         0          0          0          0          0          0      4,881     63,026          0     83,174     28,194          0      4,690      1,525
+
+Changes from:       May 6, 2025                                      Total Change is:    23,130
+         0          0          0          0          0          0      3,321     19,879          0     18,467      2,400          0      1,342        851
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0        5.3       68.0        0.0       89.7       30.4        0.0        5.1        1.6
+
+Number of Traders in Each Category                                    Total Traders:       401
+         0          0          0          0          0          0          .          7          0        267        124          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+LITECOIN CASH - LMX LABS LLC   (5 Litecoin X $85 = $425)
+CFTC Code #167LM0                                                    Open Interest is     2,543
+Positions
+         0          0          0          0          0          0      1,065      2,233          0      1,037        159          0        441        151
+
+Changes from:       May 6, 2025                                      Total Change is:      -189
+         0          0          0          0          0          0       -312       -260          0        149        -38          0        -26        109
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0       41.9       87.8        0.0       40.8        6.3        0.0       17.3        5.9
+
+Number of Traders in Each Category                                    Total Traders:        23
+         0          0          0          0          0          0          .          .          0         17          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+DOGECOIN - LMX LABS LLC   (5,000 Dogecoin X $0.12 = Contract $600)
+CFTC Code #168DC1                                                    Open Interest is     1,313
+Positions
+         0          0          0          0          0          0          0      1,007          0        571        216          0        742         90
+
+Changes from:       May 6, 2025                                      Total Change is:         .
+         .          .          .          .          .          .          .          .          .          .          .          .          .          .
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0        0.0       76.7        0.0       43.5       16.5        0.0       56.5        6.9
+
+Number of Traders in Each Category                                    Total Traders:        21
+         0          0          0          0          0          0          0          .          0         13          6          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+CHAINLINK - LMX LABS LLC   (50 Chainlink x $15 = $750)
+CFTC Code #170LM1                                                    Open Interest is     1,576
+Positions
+         0          0          0          0          0          0          0      1,141          0      1,019        294          0        557        141
+
+Changes from:       May 6, 2025                                      Total Change is:         .
+         .          .          .          .          .          .          .          .          .          .          .          .          .          .
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0        0.0       72.4        0.0       64.7       18.7        0.0       35.3        8.9
+
+Number of Traders in Each Category                                    Total Traders:        30
+         0          0          0          0          0          0          0          .          0         23          6          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+AVALANCHE - LMX LABS LLC   (10 Avalanche x $30 = $300)
+CFTC Code #171LM1                                                    Open Interest is     1,717
+Positions
+         0          0          0          0          0          0          0      1,393          0      1,181        227          0        536         97
+
+Changes from:       May 6, 2025                                      Total Change is:         .
+         .          .          .          .          .          .          .          .          .          .          .          .          .          .
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0        0.0       81.1        0.0       68.8       13.2        0.0       31.2        5.6
+
+Number of Traders in Each Category                                    Total Traders:        20
+         0          0          0          0          0          0          0          .          0         13          5          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NANO XRP - LMX LABS LLC   (500 XRP x $2.00 = $1000)
+CFTC Code #176LM1                                                    Open Interest is     6,197
+Positions
+         0          0          0          0          0          0      2,180      5,094         72      2,081        830          0      1,864        201
+
+Changes from:       May 6, 2025                                      Total Change is:     2,544
+         0          0          0          0          0          0      1,990      2,063         43        278        392          0        233         46
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0       35.2       82.2        1.2       33.6       13.4        0.0       30.1        3.2
+
+Number of Traders in Each Category                                    Total Traders:        48
+         0          0          0          0          0          0          .          5          .         34          7          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+NANO SOLANA - LMX LABS LLC   (5 Solana x $250 = $1250)
+CFTC Code #177LM1                                                    Open Interest is     7,153
+Positions
+         0          0          0          0          0          0      1,511      4,488          0      4,170      2,177          0      1,472        488
+
+Changes from:       May 6, 2025                                      Total Change is:       285
+         0          0          0          0          0          0        839        665          0       -464       -469          0        -90         89
+
+Percent of Open Interest Represented by Each Category of Trader
+       0.0        0.0        0.0        0.0        0.0        0.0       21.1       62.7        0.0       58.3       30.4        0.0       20.6        6.8
+
+Number of Traders in Each Category                                    Total Traders:        81
+         0          0          0          0          0          0          .          5          0         51         23          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+USD INDEX - ICE FUTURES U.S.   (U.S. DOLLAR INDEX X $1000)
+CFTC Code #098662                                                    Open Interest is    27,982
+Positions
+     2,215        403          2      4,745      7,868      1,720     14,645      6,360        852        893      7,415         61      2,849      3,301
+
+Changes from:       May 6, 2025                                      Total Change is:    -7,430
+       200        -81        -76      1,083       -885        437     -9,477     -5,830        -79        132       -340         60        290       -636
+
+Percent of Open Interest Represented by Each Category of Trader
+       7.9        1.4        0.0       17.0       28.1        6.1       52.3       22.7        3.0        3.2       26.5        0.2       10.2       11.8
+
+Number of Traders in Each Category                                    Total Traders:        93
+         .          .          .         10         12          .         12         20          9          9         26          .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+VIX FUTURES - CBOE FUTURES EXCHANGE   ($1000 X INDEX)
+CFTC Code #1170E1                                                    Open Interest is   276,572
+Positions
+    17,676     45,358     37,294     43,541     31,765     32,378     52,184     44,415     44,177      6,610      2,538      4,362     38,350     34,285
+
+Changes from:       May 6, 2025                                      Total Change is:    -2,534
+    -5,054      8,777     -7,263       -311      8,150     -1,904      2,533    -19,041     -1,576     -1,132       -387       -267     12,440     10,977
+
+Percent of Open Interest Represented by Each Category of Trader
+       6.4       16.4       13.5       15.7       11.5       11.7       18.9       16.1       16.0        2.4        0.9        1.6       13.9       12.4
+
+Number of Traders in Each Category                                    Total Traders:       161
+        11         19         20         15         21         20         46         28         48          7          8          7
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Traders in Financial Futures - Futures Only Positions as of May 13, 2025
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+              Dealer            :           Asset Manager/       :            Leveraged           :              Other             :     Nonreportable    :
+           Intermediary         :           Institutional        :              Funds             :           Reportables          :       Positions      :
+    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short  : Spreading:    Long  :   Short   :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+BBG COMMODITY - CHICAGO BOARD OF TRADE   ($100 X INDEX)
+CFTC Code #221602                                                    Open Interest is   205,614
+Positions
+   153,046    178,181      1,067     46,206      3,785      3,323      1,078     17,706          0        591      1,417          0        303        135
+
+Changes from:       May 6, 2025                                      Total Change is:    10,714
+       -77      5,340          0     10,180     -1,173      1,173       -635      4,143        -14         92      1,167          0         -5         78
+
+Percent of Open Interest Represented by Each Category of Trader
+      74.4       86.7        0.5       22.5        1.8        1.6        0.5        8.6        0.0        0.3        0.7        0.0        0.1        0.1
+
+Number of Traders in Each Category                                    Total Traders:        63
+         9          5          .         20          .          .          6          8          0         11          .          0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
