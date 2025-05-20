@@ -19,18 +19,6 @@ def get_price_yahoo(ticker):
     close = r.json()['chart']['result'][0]['meta']['chartPreviousClose']
     return [close, price]
 
-def print_price(symbol, price):
-    old = price[0]
-    new = price[1]
-    if new/old < 0.99:
-        print(f'{symbol:8}', f'{new:8} ', '\033[0;31m' + f'{new / old * 100 - 100:.2f}%', end='\n')
-    elif new/old > 1.01:
-        print(f'{symbol:8}', f'{new:8} ', '\033[0;32m' + f'+{new / old * 100 - 100:.2f}%', end='\n')
-    else:
-        print(f'{symbol:8}', f'{new:8} ', end='\n')
-    print('\033[0;0m', end='')
-    return
-
 def get_news(time_zone=None, time_filter='time_only', countries=None, importances=None, categories=None, from_date=None, to_date=None):
     url = 'https://www.investing.com/economic-calendar/Service/getCalendarFilteredData'
     headers = {'User-Agent': 'Mozilla/5.0', 'X-Requested-With': 'XMLHttpRequest', 'Accept': 'application/json'}
@@ -68,18 +56,8 @@ def get_news(time_zone=None, time_filter='time_only', countries=None, importance
     return ret
 
 def print_market():
-    print_price('VIX', get_price('^VIX'))
-    print_price('SKEW', get_price('^SKEW'))
-    print_price('ES', get_price('MES=F'))
-    print_price('NQ', get_price('MNQ=F'))
-    print_price('M2K', get_price('M2K=F'))
-    print_price('USD/CAD', get_price('CAD=X'))
-    print_price('USD/RUB', get_price('RUB=X'))
-    print_price('BTC=F', get_price('BTC=F'))
-    print_price('GC=F', get_price('GC=F'))
-    print_price('CL=F', get_price('CL=F'))
-    print_price('2YY=F', get_price('2YY=F'))
-    print_price('10Y=F', get_price('10Y=F'))
+    print('VIX ', get_price('^VIX')[1])
+    print('SKEW', get_price('^SKEW')[1])
     return
 
 def get_cboe_data(date):
@@ -94,8 +72,6 @@ def cnn_fear_and_greed():
     fng_score = ret.json()['fear_and_greed']['score']
     fng_rating = ret.json()['fear_and_greed']['rating']
     print(f'Fear and Greed Index: {fng_score:.2f} [{fng_rating}]')
-    url = f'https://www.binance.com/bapi/composite/v1/friendly/pgc/card/fearGreedHighestSearched'
-    ret = requests.get(url, headers=headers)
     return
 
 def cnbc_furu_sentiment(cnbc_furu):
@@ -163,25 +139,15 @@ def print_pc_ratio():
         return
     return
 
-def get_onof_url():
-    url = 'https://www.globalxetfs.com/funds/onof/'
-    r = requests.get(url, headers=headers)
-    s = str(r.content)
-    start = s.find("https://assets.globalxetfs.com/funds/holdings/onof_full-holdings")
-    s = s[start:]
-    end = s.find("csv") + len("csv")
-    url = s[:end]
-    return url
-
 def fade_asset_managers():
     if not os.path.exists('/dev/shm/funds'):
         os.mkdir('/dev/shm/funds')
     fade_asset_manager('HFND', 'https://unlimitedetfs.com/data/TidalETF_Services.40ZZ_Holdings_HFND.csv')
     fade_asset_manager('TFPN', 'https://blueprintip.com/wp-content/fund_files/files/wp-content/fund_files/files/BlueprintInvWeb.40T2.T2_ETF_Holdings.csv')
+    fade_asset_manager('EHLS', 'https://evenherd-wix.s3.us-east-2.amazonaws.com/holdings.csv')
+    fade_asset_manager('LQPE', 'https://peoalphaquestetf.com/data/TidalETF_Services.40ZZ_Holdings_LQPE.csv')
     fade_asset_manager('RORO', 'https://www.atacfunds.com/download/4421')
-    fade_asset_manager('JOJO', 'https://www.atacfunds.com/download/4415')
-    fade_asset_manager('ONOF', get_onof_url())
-    fade_asset_manager('ISMF', 'https://www.blackrock.com/us/individual/products/342102/fund/1464253357814.ajax?fileType=csv&fileName=ISMF_holdings&dataType=fund')
+    fade_asset_manager('HF', 'https://daysadvisors.com/data/TidalETF_Services.40ZZ_Holdings_HF.csv')
     return
 
 def fade_asset_manager(ticker, url):
@@ -192,18 +158,10 @@ def fade_asset_manager(ticker, url):
             return
         all_positions = str(r.text)
         lines = r.text.splitlines()
-        date = ''
         new = []
         for i in lines:
-            if i.startswith('Fund Holdings as of'):
-                date = i[21:-1]
-                continue
-            if ",,," in i:
-                continue
             if i.count(',') < 5:
                 continue
-            if 'The content contained herein' in i:
-                break
             new.append(i)
         lines = new
         reader = csv.DictReader(lines)
@@ -211,35 +169,19 @@ def fade_asset_manager(ticker, url):
             positions.append(row)
         if not positions:
             return
-        if ticker == 'ONOF':
-            positions = sorted(positions, key=lambda x: float(x['% of Net Assets']), reverse=True)
-        elif ticker == 'ISMF':
-            positions = sorted(positions, key=lambda x: float(x['Notional Value'].replace(',','')), reverse=True)
-        else:
-            positions = sorted(positions, key=lambda x: float(x['Weightings'][:-1]), reverse=True)
+        positions = sorted(positions, key=lambda x: float(x['Weightings'][:-1]), reverse=True)
         if len(positions) > 20:
             positions = positions[:10] + positions[-10:]
         print()
-        if date:
-            print(f'{ticker} as of {date}')
-        elif 'Date' in positions[0].keys():
+        if 'Date' in positions[0].keys():
             print(f'{ticker} as of {positions[0]["Date"]}')
-        elif 'As Of Date' in positions[0].keys():
-            print(f'{ticker} as of {positions[0]["As Of Date"]}')
         else:
             print(f'{ticker}')
         header = ["Weightings", "Ticker", "Shares", "Price", "Value", "Name"]
         print("{:<12} {:<12} {:<15} {:<10} {:<15} {}".format(*header))
         print("=" * 90)
         for i in positions:
-            if ticker == 'ONOF':
-                print("{:<12} {:<12} {:<15} {:<10} {:<15} {}".format(i['% of Net Assets'] + '%', i['Ticker'], i['Shares Held'], i['Market Price ($)'], i['Market Value ($)'], i['Name']))
-            elif ticker == 'ISMF':
-                print("{:<12} {:<12} {:<15} {:<10} {:<15} {}".format(i['Weight (%)'] + '%', i['Ticker'], i['Shares'], i['Price'], i['Notional Value'], i['Name']))
-            else:
-                if len(i['Price']) > 8:
-                    i['Price'] = i['Price'][:8]
-                print("{:<12} {:<12} {:<15} {:<10} {:<15} {}".format(i['Weightings'], i['StockTicker'], i['Shares'], i['Price'], i['MarketValue'], i['SecurityName']))
+            print("{:<12} {:<12} {:<15} {:<10} {:<15} {}".format(i['Weightings'], i['StockTicker'], i['Shares'], i['Price'], i['MarketValue'], i['SecurityName']))
         if not os.path.exists(f'/dev/shm/funds/{ticker.lower()}-{datetime.now().strftime("%Y-%m-%d")}.csv'):
             with open(f'/dev/shm/funds/{ticker.lower()}-{datetime.now().strftime("%Y-%m-%d")}.csv', 'w', newline='') as file:
                 file.write(all_positions)
@@ -260,7 +202,6 @@ def main():
     print_pc_ratio()
     print()
     cnn_fear_and_greed()
-    print()
     fade_asset_managers()
     return
 
