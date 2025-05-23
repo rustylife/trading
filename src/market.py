@@ -143,6 +143,7 @@ def fade_asset_managers():
     if not os.path.exists('/dev/shm/funds'):
         os.mkdir('/dev/shm/funds')
     fade_asset_manager('HFND', 'https://unlimitedetfs.com/data/TidalETF_Services.40ZZ_Holdings_HFND.csv')
+    fade_asset_manager('HFGM', 'https://unlimitedetfs.wpenginepowered.com/data/TidalETF_Services.40ZZ_Holdings_HFGM.csv')
     fade_asset_manager('TFPN', 'https://blueprintip.com/wp-content/fund_files/files/wp-content/fund_files/files/BlueprintInvWeb.40T2.T2_ETF_Holdings.csv')
     fade_asset_manager('EHLS', 'https://evenherd-wix.s3.us-east-2.amazonaws.com/holdings.csv')
     fade_asset_manager('LQPE', 'https://peoalphaquestetf.com/data/TidalETF_Services.40ZZ_Holdings_LQPE.csv')
