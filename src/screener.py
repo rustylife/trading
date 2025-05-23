@@ -160,29 +160,38 @@ def get_trades(data):
             print(i)
     return
 
+def skip_ticker(ticker):
+    p = get_price_yahoo(ticker, '1d', '3d')
+    if not p or len(p) < 1:
+        return True
+    if (p[-1].close < 10):
+        return True
+    _, _, v = find_volume(p)
+    if v < 10000000:
+        return True
+    return False
+
 def screen_stocks():
     p = {}
     tickers = get_tickers()
     print(f'Getting price and volume for {len(tickers)} tickers..')
     for ticker in tickers:
         try:
+            if skip_ticker(ticker):
+                continue
             start = int(datetime.now().timestamp()) - 9 * 30 * 24 * 3600
             end = start + 30 * 24 * 3600
             new = get_price_yahoo(ticker, '1d', '40d')
+            _, _, v1 = find_volume(new)
             if len(new) < 2:
                 continue
             cur = new[-1]
             prev = new[-2]
-            if (cur.close < 7):
-                continue
             old = get_price_yahoo(ticker, '1d', None, start, end)
-            high, low, v1 = find_volume(new)
-            high, low, v2 = find_volume(old)
-            if max(v1, v2) < 3000000:
-                continue
+            _, _, v2 = find_volume(old)
             p[ticker] = [new, old, v1, v2]
         except Exception as e:
-            pass
+            print(ticker, e)
     print(f'{len(p)} tickers to analyze..')
     find_52w_high_or_low(p)
     find_gappers(p)
