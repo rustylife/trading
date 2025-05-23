@@ -9,19 +9,7 @@ headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)", "Accept": "applicati
 class Data:
     name: str
 
-def get_price(ticker):
-    return get_price_yahoo(ticker)
-
-def get_price_yahoo(ticker):
-    url = f'https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?&interval=1d&range=1d'
-    r = requests.get(url, headers=headers)
-    if r.status_code != 200:
-        return None
-    price = r.json()['chart']['result'][0]['meta']['regularMarketPrice']
-    close = r.json()['chart']['result'][0]['meta']['chartPreviousClose']
-    return [close, price]
-
-def get_price_yahoo2(ticker, interval='1d', span='1y', period1 = None, period2 = None):
+def get_price_yahoo(ticker, interval='1d', span='1y', period1 = None, period2 = None):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?&interval={interval}&range={span}"
     if period1 and period2:
         url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?&period1={period1}&period2={period2}&interval={interval}"
@@ -106,14 +94,17 @@ def find_high_volume(data):
             print(i)
     return
 
-def find_high_relative_volume(data):
-    return
-
 def find_strength(data):
     result = []
+    voo = get_price_yahoo('VOO', '1d', '3d')[-1]
     for ticker in data.keys():
-        p = data[ticker]
-        continue
+        p = data[ticker][0][-1]
+        if voo.close/voo.open > 1.00:
+            if p.close/p.open < 0.96:
+                result.append(f'{ticker} down {int((p.close/p.open*100)-100)}% on the up day')
+        if voo.close/voo.open < 1.00:
+            if p.close/p.open > 1.04:
+                result.append(f'{ticker} up {int((p.close/p.open*100)-100)}% on the down day')
     if result:
         print('\nstrength/weakness on down/up days:')
         for i in result:
@@ -139,6 +130,36 @@ def find_gappers(data):
             print(i)
     return
 
+def set_sma(data):
+    for i in range(len(data) - 10):
+        window = data[i:i + 10]
+        sma = sum(c.close for c in window) / 10
+        data[i + 10].sma_10 = sma
+    for i in range(len(data) - 20):
+        window = data[i:i + 20]
+        sma = sum(c.close for c in window) / 20
+        data[i + 20].sma_20 = sma
+    return
+
+def get_trades(data):
+    result = []
+    for ticker in data.keys():
+        p = data[ticker]
+        if len(p[0]) < 30:
+            continue
+        set_sma(p[0])
+        prev = p[0][-2]
+        cur = p[0][-1]
+        if cur.sma_10 - cur.sma_20 >= 0 and prev.sma_10 - prev.sma_20 < 0:
+            result.append(f'wedge pop for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
+        if cur.sma_10 - cur.sma_20 < 0 and prev.sma_10 - prev.sma_20 >= 0:
+            result.append(f'wedge drop for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
+    if result:
+        print('\ntrade signals:')
+        for i in result:
+            print(i)
+    return
+
 def screen_stocks():
     p = {}
     tickers = get_tickers()
@@ -147,14 +168,14 @@ def screen_stocks():
         try:
             start = int(datetime.now().timestamp()) - 9 * 30 * 24 * 3600
             end = start + 30 * 24 * 3600
-            new = get_price_yahoo2(ticker, '1d', '1mo')
+            new = get_price_yahoo(ticker, '1d', '40d')
             if len(new) < 2:
                 continue
             cur = new[-1]
             prev = new[-2]
             if (cur.close < 7):
                 continue
-            old = get_price_yahoo2(ticker, '1d', None, start, end)
+            old = get_price_yahoo(ticker, '1d', None, start, end)
             high, low, v1 = find_volume(new)
             high, low, v2 = find_volume(old)
             if max(v1, v2) < 3000000:
@@ -167,12 +188,7 @@ def screen_stocks():
     find_gappers(p)
     find_high_volume(p)
     find_strength(p)
-    return
-
-def get_news_failure():
-    return
-
-def get_etf_flows():
+    get_trades(p)
     return
 
 def main():
