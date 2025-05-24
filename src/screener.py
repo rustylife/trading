@@ -96,15 +96,20 @@ def find_high_volume(data):
 
 def find_strength(data):
     result = []
-    voo = get_price_yahoo('VOO', '1d', '3d')[-1]
+    voo = get_price_yahoo('VOO', '1d', '5d')
+    if len(voo) < 2:
+        return
+    cur = voo[-1].close
+    prev = voo[-2].close
     for ticker in data.keys():
-        p = data[ticker][0][-1]
-        if voo.close/voo.open > 1.00:
-            if p.close/p.open < 0.96:
-                result.append(f'{ticker} down {int((p.close/p.open*100)-100)}% on the up day')
-        if voo.close/voo.open < 1.00:
-            if p.close/p.open > 1.04:
-                result.append(f'{ticker} up {int((p.close/p.open*100)-100)}% on the down day')
+        ticker_cur = data[ticker][0][-1].close
+        ticker_prev = data[ticker][0][-2].close
+        if prev/cur > 1.00:
+            if ticker_prev/ticker_cur < 0.96:
+                result.append(f'{ticker} up {int((ticker_cur/ticker_prev*100)-100)}% on the down day')
+        else:
+            if ticker_prev/ticker_cur > 1.04:
+                result.append(f'{ticker} down {int((ticker_cur/ticker_prev*100)-100)}% on the up day')
     if result:
         print('\nstrength/weakness on down/up days:')
         for i in result:
