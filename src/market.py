@@ -149,12 +149,16 @@ def fade_asset_managers():
     fade_asset_manager('LQPE', 'https://peoalphaquestetf.com/data/TidalETF_Services.40ZZ_Holdings_LQPE.csv')
     fade_asset_manager('RORO', 'https://www.atacfunds.com/download/4421')
     fade_asset_manager('HF', 'https://daysadvisors.com/data/TidalETF_Services.40ZZ_Holdings_HF.csv')
+    fade_asset_manager('GMMA', 'https://marketnavigationetf.com/data/TidalETF_Services.40ZZ_Holdings_GMMA.csv')
+    fade_asset_manager('MFUT', 'https://cambriafunds.com/assets/data/FilepointCambria.40C1.C1_ETF_Holdings.csv')
     return
 
 def fade_asset_manager(ticker, url):
     positions = []
     try:
         r = requests.get(url, headers=headers)
+        if r.status_code == 406:
+            r = requests.get(url)
         if r.status_code != 200:
             return
         all_positions = str(r.text)
@@ -167,6 +171,8 @@ def fade_asset_manager(ticker, url):
         lines = new
         reader = csv.DictReader(lines)
         for row in reader:
+            if row['Account'] != ticker:
+                continue
             positions.append(row)
         if not positions:
             return
