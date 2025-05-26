@@ -45,7 +45,7 @@ def find_move(data):
     c = []
     for i in data:
         c.append(max(i.open, i.low, i.high, i.close) - min(i.open, i.low, i.high, i.close))
-    m = sorted(c)[-20:][0]
+    m = sorted(c)[-10:][0]
     return m, statistics.median(c)
 
 def get_tickers():
@@ -155,10 +155,15 @@ def get_trades(data):
         set_sma(p[0])
         prev = p[0][-2]
         cur = p[0][-1]
+        m = p[4]
         if cur.sma_10 - cur.sma_20 >= 0 and prev.sma_10 - prev.sma_20 < 0:
             result.append(f'wedge pop for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
         if cur.sma_10 - cur.sma_20 < 0 and prev.sma_10 - prev.sma_20 >= 0:
             result.append(f'wedge drop for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
+        if (cur.high - prev.close) > m and cur.close < prev.close:
+            result.append(f'exhaustion extension down for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
+        if (prev.close - cur.low) > m and cur.close > prev.close:
+            result.append(f'exhaustion extension up for {ticker} prev c: {prev.close:g} c: {cur.close:g}')
     if result:
         print('\ntrade signals:')
         for i in result:
@@ -194,7 +199,8 @@ def screen_stocks():
             prev = new[-2]
             old = get_price_yahoo(ticker, '1d', None, start, end)
             _, _, v2 = find_volume(old)
-            p[ticker] = [new, old, v1, v2]
+            m, _ = find_move(new)
+            p[ticker] = [new, old, v1, v2, m]
         except Exception as e:
             print(ticker, e)
     print(f'{len(p)} tickers to analyze..')
