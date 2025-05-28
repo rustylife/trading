@@ -173,6 +173,8 @@ def fade_asset_manager(ticker, url):
         for row in reader:
             if row['Account'] != ticker:
                 continue
+            if not row['Weightings']:
+                continue
             positions.append(row)
         if not positions:
             return
