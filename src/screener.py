@@ -174,10 +174,10 @@ def skip_ticker(ticker):
     p = get_price_yahoo(ticker, '1d', '3d')
     if not p or len(p) < 1:
         return True
-    if (p[-1].close < 10):
+    if (p[-1].close < 7):
         return True
     _, _, v = find_volume(p)
-    if v < 10000000:
+    if v < 5000000:
         return True
     return False
 
