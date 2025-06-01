@@ -139,7 +139,7 @@ def need_to_update():
         return True
     return False
 
-def fetch_cftc_cot(lookback_years=4):
+def fetch_cftc_cot(lookback_years=5):
     if not need_to_update():
         return
     i = datetime.today().year
@@ -158,9 +158,9 @@ def fetch_cftc_cot(lookback_years=4):
 def verify_consistency(p):
     return
 
-def load_data(contracts, lookback_years=4):
+def load_data(contracts, lookback_years=5):
     positions = []
-    fetch_cftc_cot()
+    fetch_cftc_cot(lookback_years)
     i = datetime.today().year
     j = datetime.today().year - lookback_years
     while i > j:
