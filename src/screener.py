@@ -106,10 +106,10 @@ def find_strength(data):
         ticker_prev = data[ticker][0][-2].close
         if prev/cur > 1.00:
             if ticker_prev/ticker_cur < 0.96:
-                result.append(f'{ticker} up {int((ticker_cur/ticker_prev*100)-100)}% on the down day')
+                result.append(f'{ticker} up {int((ticker_cur/ticker_prev*100)-100)}% on the down day, prev c: {ticker_prev:g} c: {ticker_cur:g}')
         else:
             if ticker_prev/ticker_cur > 1.04:
-                result.append(f'{ticker} down {int((ticker_cur/ticker_prev*100)-100)}% on the up day')
+                result.append(f'{ticker} down {int((ticker_cur/ticker_prev*100)-100)}% on the up day, prev c: {ticker_prev:g} c: {ticker_cur:g}')
     if result:
         print('\nstrength/weakness on down/up days:')
         for i in result:
