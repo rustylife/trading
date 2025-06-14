@@ -131,9 +131,12 @@ def print_pc_ratio():
     try:
         for i in pcr['ratios']:
             name = i['name']
-            if name == 'SPX + SPXW PUT/CALL RATIO':
-                print(f'{i["name"]}: {i["value"]}')
-            if name == 'EQUITY PUT/CALL RATIO':
+            if (name == 'TOTAL PUT/CALL RATIO' or
+                name == 'INDEX PUT/CALL RATIO' or
+                name == 'CBOE VOLATILITY INDEX (VIX) PUT/CALL RATIO' or
+                name == 'EXCHANGE TRADED PRODUCTS PUT/CALL RATIO' or
+                name == 'SPX + SPXW PUT/CALL RATIO' or
+                name == 'EQUITY PUT/CALL RATIO'):
                 print(f'{i["name"]}: {i["value"]}')
     except:
         return
